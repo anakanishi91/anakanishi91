@@ -23,6 +23,13 @@
 - 🔄 CI/CD with GitHub Actions & AWS
 - ✅ Fully tested, linted, and production-ready
 
+### 🛠 [Lox Language Implementation](https://github.com/anakanishi91/craftinginterpreters-implementation)
+- ☕ jlox: Java Tree-Walk Interpreter (AST-based)
+- ⚡ clox: C Bytecode Compiler + Stack-Based VM
+- 🧠 Features: Closures, OOP, Garbage Collection
+- 🔍 Covers: Scanning → Parsing → Compilation → Execution
+- ✅ Built from scratch following Crafting Interpreters
+
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="top langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakanishi91&layout=compact" />
