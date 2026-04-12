@@ -30,7 +30,10 @@
 - 🔍 Covers: Scanning → Parsing → Compilation → Execution
 - ✅ Built from scratch following Crafting Interpreters
 
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="top langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakanishi91&layout=compact" />
-</div>
+### 🖥 [Nand2Tetris](https://github.com/anakanishi91/nand2tetris-implementation) - From Logic Gates to a Working Computer
+- 🔌 Built: Basic logic gates → ALU → Registers → RAM → CPU (HDL)
+- 🧠 Designed a 16-bit Harvard Architecture computer from scratch
+- 💾 Wrote an Assembler and Stack-Based Virtual Machine
+- 🏗 Concepts: Boolean logic, sequential circuits, memory hierarchy, ISA design
+- 🔄 Covers: Hardware → Machine Code → Assembly → VM
+
