@@ -30,10 +30,17 @@
 - 🔍 Covers: Scanning → Parsing → Compilation → Execution
 - ✅ Built from scratch following Crafting Interpreters
 
-### 🖥 [Nand2Tetris](https://github.com/anakanishi91/nand2tetris-implementation) - From Logic Gates to a Working Computer
+### 🖥 [Nand2Tetris Implementation](https://github.com/anakanishi91/nand2tetris-implementation) - From Logic Gates to a Working Computer
 - 🔌 Built: Basic logic gates → ALU → Registers → RAM → CPU (HDL)
 - 🧠 Designed a 16-bit Harvard Architecture computer from scratch
 - 💾 Wrote an Assembler and Stack-Based Virtual Machine
 - 🏗 Concepts: Boolean logic, sequential circuits, memory hierarchy, ISA design
 - 🔄 Covers: Hardware → Machine Code → Assembly → VM
 
+## 🖥️ [MikanOS Implementation](https://github.com/anakanishi91/mikanos-implementation) - Operating System Development
+- 🥾 Built: UEFI Boot → x86-64 Kernel → GUI Desktop → Applications
+- 📦 Implemented paging, memory allocation, interrupt handling, and multitasking
+- 🔌 Developed PCI, USB, and AHCI/SATA device support
+- 🎨 Created a framebuffer-based windowing system with keyboard and mouse input
+- 🧠 Concepts: OS internals, computer architecture, virtual memory, scheduling, system calls
+- 🔄 Covers: Firmware → Kernel → Drivers → User Space
