@@ -37,10 +37,17 @@
 - 🏗 Concepts: Boolean logic, sequential circuits, memory hierarchy, ISA design
 - 🔄 Covers: Hardware → Machine Code → Assembly → VM
 
-## 🖥️ [MikanOS Implementation](https://github.com/anakanishi91/mikanos-implementation) - Operating System Development
+### 🖥️ [MikanOS Implementation](https://github.com/anakanishi91/mikanos-implementation) - Operating System Development
 - 🥾 Built: UEFI Boot → x86-64 Kernel → GUI Desktop → Applications
 - 📦 Implemented paging, memory allocation, interrupt handling, and multitasking
 - 🔌 Developed PCI, USB, and AHCI/SATA device support
 - 🎨 Created a framebuffer-based windowing system with keyboard and mouse input
 - 🧠 Concepts: OS internals, computer architecture, virtual memory, scheduling, system calls
 - 🔄 Covers: Firmware → Kernel → Drivers → User Space
+
+### 🧠 [Deep Learning from Scratch 3 Implementation](https://github.com/anakanishi91/deep-learning-from-scratch-3-implementation)
+- 🔢 Building **DeZero**, a deep-learning framework inspired by PyTorch
+- 🔁 Implementing automatic differentiation and backpropagation from scratch
+- 🧠 Building neural-network layers, models, optimizers, and training utilities
+- 🖼️ Covers CNNs, RNNs, datasets, and GPU acceleration with CuPy
+- 🧩 Includes a modular framework design with NumPy and CuPy support
